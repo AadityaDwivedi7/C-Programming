@@ -1,0 +1,2 @@
+# C-Programming
+This repository contains a structured collection of C programs organized topic-wise for easy learning and reference. Each file covers a specific concept in C — from basic syntax and control structures to advanced topics like pointers, file handling, and data structures. Whether you're a beginner learning C or someone revising core programming concepts, this repository provides clear, well-commented examples to strengthen your understanding.
